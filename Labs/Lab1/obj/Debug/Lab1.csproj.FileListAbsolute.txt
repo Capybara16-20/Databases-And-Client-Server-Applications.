@@ -1,0 +1,10 @@
+C:\Users\Alexr\Google Диск\6 семак\бд\Labs\Lab1\bin\Debug\lib.mdf
+C:\Users\Alexr\Google Диск\6 семак\бд\Labs\Lab1\bin\Debug\lib_log.ldf
+C:\Users\Alexr\Google Диск\6 семак\бд\Labs\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Alexr\Google Диск\6 семак\бд\Labs\Lab1\bin\Debug\Lab1.exe
+C:\Users\Alexr\Google Диск\6 семак\бд\Labs\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Alexr\Google Диск\6 семак\бд\Labs\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\Alexr\Google Диск\6 семак\бд\Labs\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Alexr\Google Диск\6 семак\бд\Labs\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Alexr\Google Диск\6 семак\бд\Labs\Lab1\obj\Debug\Lab1.exe
+C:\Users\Alexr\Google Диск\6 семак\бд\Labs\Lab1\obj\Debug\Lab1.pdb
