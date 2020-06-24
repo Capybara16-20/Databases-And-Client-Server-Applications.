@@ -1,37 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Entities
+﻿namespace Entities
 {
     public class EndingStatus
     {
-        private int id;
-        public int ID
-        {
-            get { return id; }
-            set
-            {
-                id = value;
-            }
-        }
-        private string status;
-        public string Status
-        {
-            get { return status; }
-            set
-            {
-                status = value;
-            }
-        }
-        private string description;
-        public string Description
-        {
-            get { return description; }
-            set
-            {
-                description = value;
-            }
-        }
+        public int ID { get; set; }
+        public string Status { get; set; }
+        public string Description { get; set; }
     }
 }
